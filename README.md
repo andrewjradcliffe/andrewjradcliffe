@@ -1,4 +1,4 @@
-### Stats
+<!-- ### Stats -->
 ---
 
 <!-- ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjradcliffe&count_private=true&theme=aura&hide=issues&hide_border=true&show_icons=true&include_all_commits=true) -->
