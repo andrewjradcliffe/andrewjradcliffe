@@ -1,7 +1,7 @@
 ### Stats
 ---
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjradcliffe&count_private=true&theme=aura&hide=issues&hide_border=true&show_icons=true&include_all_commits=true)
+<!-- ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjradcliffe&count_private=true&theme=aura&hide=issues&hide_border=true&show_icons=true&include_all_commits=true) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjradcliffe)](https://github.com/andrewjradcliffe/github-readme-stats) -->
 
