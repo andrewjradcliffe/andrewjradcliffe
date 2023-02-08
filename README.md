@@ -12,5 +12,6 @@
 ![](https://img.shields.io/badge/VC-Git-informational?style=flat&logo=Git&logoColor=white&color=ff6ac1)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=ff6ac1)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=ff6ac1)
+![](https://img.shields.io/badge/Code-Scheme-informational?style=flat&logo=scheme&logoColor=white&color=ff6ac1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=ff6ac1)
 ![](https://img.shields.io/badge/Markdown-Org-informational?style=flat&logo=org&logoColor=white&color=ff6ac1)
