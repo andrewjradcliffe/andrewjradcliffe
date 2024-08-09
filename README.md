@@ -7,7 +7,7 @@
 
 ### Tools I enjoy
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=ff6ac1)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=ff6ac1)
 ![](https://img.shields.io/static/v1?logo=gnuemacs&logoColor=white&label=Editor&message=GNU%20Emacs&color=ff6ac1&style=flat)
 ![](https://img.shields.io/badge/VC-Git-informational?style=flat&logo=Git&logoColor=white&color=ff6ac1)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=ff6ac1)
